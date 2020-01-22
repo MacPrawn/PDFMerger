@@ -1,6 +1,6 @@
 {
     "name": "zandzpider/pdfmerger",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "PDFMerger for PHP",
     "keywords": ["PHP", "PDF"],
     "homepage": "https://github.com/zandzpider/PDFMerger",
@@ -17,7 +17,7 @@
         "homepage": "https://github.com/zandzpider"
     }],
     "require": {
-        "php": ">=5.2.0"
+        "php": ">=7.0"
     },
     "autoload": {
         "psr-0": {
